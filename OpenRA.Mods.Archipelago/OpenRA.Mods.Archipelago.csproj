@@ -22,9 +22,4 @@
 		</None>
 	</ItemGroup>
 
-	<ItemGroup>
-	  <Folder Include="Scripting\" />
-	  <Folder Include="Rendering\" />
-	</ItemGroup>
-
 </Project>
